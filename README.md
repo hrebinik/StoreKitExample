@@ -264,6 +264,12 @@ func beginRefundProcess(for productID: String) {
 
 [Introducing StoreKit Testing in Xcode](https://developer.apple.com/videos/play/wwdc2020/10659)
 
+## App screenshots
+<img width="411" alt="Снимок экрана 2022-08-03 в 18 40 02" src="https://user-images.githubusercontent.com/77230603/182650873-24528c37-5400-4014-97cc-7295c30e792f.png">
+<img width="411" alt="Снимок экрана 2022-08-03 в 18 40 08" src="https://user-images.githubusercontent.com/77230603/182650888-40be4bfb-cc0e-4e4a-9585-8867f9ff9ec1.png">
+<img width="411" alt="Снимок экрана 2022-08-03 в 18 40 11" src="https://user-images.githubusercontent.com/77230603/182650898-1e590fc5-857b-46f2-a23f-01915ee5d48a.png">
+<img width="411" alt="Снимок экрана 2022-08-03 в 18 40 22" src="https://user-images.githubusercontent.com/77230603/182650899-6c264e26-8fb4-48bf-af37-274279e879ce.png">
+
 
 Developed By
 ------------
