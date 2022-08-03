@@ -1,0 +1,202 @@
+{
+  "identifier" : "E98F525E",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "10.99",
+      "familyShareable" : false,
+      "internalID" : "57307486",
+      "localizations" : [
+        {
+          "description" : "Standard 1 Year Service Access",
+          "displayName" : "Standard 1 Year Service Access",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nonRenewing.standard",
+      "referenceName" : "Standard",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "2BD1306D",
+      "localizations" : [
+        {
+          "description" : "Small-lift launch vehicle ",
+          "displayName" : "Falcon 1",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nonconsumable.falcon1",
+      "referenceName" : "Falcon 1",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "88F4C3A5",
+      "localizations" : [
+        {
+          "description" : "The two-stage-to-orbit rocket ",
+          "displayName" : "Falcon 9",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nonconsumable.falcon9",
+      "referenceName" : "Falcon 9",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "41D56D0C",
+      "localizations" : [
+        {
+          "description" : "The biggest rocket",
+          "displayName" : "Falcon Heavy",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nonconsumable.falconHeavy",
+      "referenceName" : "Falcon Heavy",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "306C9DB7",
+      "localizations" : [
+        {
+          "description" : "Oxygen",
+          "displayName" : "Liquid Oxygen",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "consumable.fuel.liquidOxygen",
+      "referenceName" : "Liquid Oxygen",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "9CA4B347",
+      "localizations" : [
+        {
+          "description" : "Hydrogen",
+          "displayName" : "Liquid Hydrogen",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "consumable.fuel.liquidHydrogen",
+      "referenceName" : "Liquid Hydrogen",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A6EF0A07",
+      "localizations" : [
+        {
+          "description" : "Methane",
+          "displayName" : "Liquid Methane",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "consumable.fuel.liquidMethane",
+      "referenceName" : "Liquid Methane",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "F6EF8874",
+      "localizations" : [
+
+      ],
+      "name" : "Software Services",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "2.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "BAD13A67",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Navigation assistance",
+              "displayName" : "Bronze",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "subscription.bronze",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Bronze",
+          "subscriptionGroupID" : "F6EF8874",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "3.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "AD146E7A",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Navigation assistance and dash cam",
+              "displayName" : "Silver",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "subscription.silver",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Silver",
+          "subscriptionGroupID" : "F6EF8874",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "412BE91B",
+          "introductoryOffer" : {
+            "displayPrice" : "",
+            "internalID" : "335D6BE2",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "payAsYouGo",
+            "subscriptionPeriod" : "P1W"
+          },
+          "localizations" : [
+            {
+              "description" : "Navigation assistance, dash cam, & autopilot",
+              "displayName" : "Gold",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "subscription.gold",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "Gold",
+          "subscriptionGroupID" : "F6EF8874",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

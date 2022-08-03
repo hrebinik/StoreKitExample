@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Products</key>
+	<array>
+		<string>consumable.fuel.liquidOxygen</string>
+		<string>consumable.fuel.liquidHydrogen</string>
+		<string>consumable.fuel.liquidMethane</string>
+		<string>nonconsumable.falcon1</string>
+		<string>nonconsumable.falcon9</string>
+		<string>nonconsumable.falconHeavy</string>
+		<string>subscription.bronze</string>
+		<string>subscription.silver</string>
+		<string>subscription.gold</string>
+		<string>nonRenewing.standard</string>
+	</array>
+</dict>
+</plist>
